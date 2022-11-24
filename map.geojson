@@ -1,14 +1,19 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Cite This",
+    "chapter":"chapter1 - Introduction",
     "zoom":1,
     "image":"",
-    "source-credit":"Source: Library of Congress",
-    "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"<LAST NAME>, <FIRST NAME> or ARTH 370 Student (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder). “Ibrahim Sultan hunting” In Ibrahim Sultan's Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 30, 2022."},
+    "source-credit":"",
+    "source-link":"",
+    "description":"In this image, there are three men on the plain, and the Jihun river surrounds them. The man who wears in red is Gurwi, he is cutting the man’s neck who wears in green. His name is Siyavush. Then a soldier-like man villain Garsiwaz uses a golden basin to take Siyavush’s blood.
+This picture’s background is about the second part of the Epic of Siyavush. Siyavush, who is a major figure in Ferdowsi's epic, the Shahnameh, is a young man well-versed in the arts of war. He has a good reputation but is framed by his stepmother.
+Hence Siavash finds no alternative but to go into self-imposed exile in the mythical land of Turan, and seek shelter under the rule of Afrasiab, the tyrannical arch-enemy of the Iranian Shah.
+However, Afrasiab is cruel and he is also jealous of Siyavush’s reputation. After helping his wife escape, Siyavush is dragged before Afrasiab, who orders his execution by beheading. The hot-headed Afrasiab ignores others’ warnings and executes Siyavush. 
+As Siyavush's blood reaches the ground, a plant grows upon the same spot and is later named "Khune Asyavushan," or the "blood of Siyavush."
+Siavash is the symbol of innocence in Iranian literature. The defense of his own chastity, self-imposed exile, constancy in love for his wife, and ultimate execution at the hands of his adopted host have become intertwined with Iranian mythology and literature over the past millennia. In Iranian mythology, his name is also linked with the growth of plants."},
     "geometry":{"type":"Point","coordinates":[0,0]}},
-  {"type":"Feature","properties":
+  {"type":"Feature","prop erties":
     {"id":2,
     "chapter":"Introduction",
     "zoom":1,
